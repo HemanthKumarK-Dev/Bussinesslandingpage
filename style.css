@@ -407,7 +407,7 @@ input{
     border-width: 1px;
     background-color: #8bb7ae;
     border: none;
-    margin-left: 150px;
+    margin-left: 70px;
     padding: 10px 30px;
 }
 .talk-btn{
@@ -444,7 +444,7 @@ form {
     margin-bottom: 20px;
     display:flex;
     height: 40px;
-    width: 390px;
+    width: 300px;
     padding:4px;
     background-color: #ffffff;
 }
